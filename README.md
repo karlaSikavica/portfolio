@@ -7,7 +7,7 @@ Here, you'll find an overview of the projects I've worked on, showcasing my expe
 
 ## 🌐 Web Development
 
-### 🌍 [Closet](https://github.com/karlaSikavica/closet)
+#### 🌍 [Closet](https://github.com/karlaSikavica/closet)
 **🔹 My Role:**  
 Full stack developer — designed and created the SQL database, implemented the entire frontend and backend.
 
@@ -19,7 +19,7 @@ React, TypeScript, Java, Spring Boot, PostgreSQL
 
 ---
 
-### 🌍 [MenZagreb](https://github.com/MENZG/menZg)
+#### 🌍 [MenZagreb](https://github.com/MENZG/menZg)
 **🔹 My Role:**  
 Implemented the frontend using React, worked on API integrations, and optimized performance.
 
@@ -30,7 +30,7 @@ React, TypeScript
 
 ## 📱 Mobile Development
 
-### 📱 [Foody](https://github.com/foody-fer/foody)
+#### 📱 [Foody](https://github.com/foody-fer/foody)
 **🔹 My Role:**  
 Designed and built the UI and navigation system in React Native.
 
