@@ -15,7 +15,7 @@ Full stack developer — designed and created the SQL database, implemented the 
 React, TypeScript, Java, Spring Boot, PostgreSQL  
 
 **🔹 Demo video:**  
-[Click here](https://drive.google.com/file/d/1CHOW2qUgcj6lG2LT34FWSdmVaFcoy5aM/view)
+[Click here](https://drive.google.com/file/d/14q0Ql9mKyx5hN-JOuiV2lbbYiSJuze3Y/view?usp=sharing)
 
 ---
 
