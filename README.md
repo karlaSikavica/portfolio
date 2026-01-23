@@ -19,6 +19,21 @@ React, TypeScript, Java, Spring Boot, PostgreSQL
 
 ---
 
+#### 🎬 [Open Movie Dataset](https://github.com/karlaSikavica/open-movie-dataset)
+**🔹 My Role:**  
+Full stack developer — built the backend API, integrated OAuth login, and created a frontend for browsing, filtering, and exporting open movie data.
+
+**🔹 Key Features:**  
+- Filtering, search, and dataset export (**CSV / JSON**)  
+- CRUD operations (add/delete movies, link actors to movies)  
+- OAuth authentication (OpenID Connect)  
+- Full setup runnable via **Docker Compose** (`docker compose up`)
+
+**🔹 Technologies:**  
+Node.js, Express, TypeScript, PostgreSQL, Nginx, Docker, Docker Compose
+
+---
+
 #### 🌍 [MenZagreb](https://github.com/MENZG/menZg)
 **🔹 My Role:**  
 Implemented the frontend using React, worked on API integrations, and optimized performance.
